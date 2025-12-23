@@ -1,0 +1,17 @@
+{
+  "Random Forest": {
+    "train_time": 0.36488890647888184,
+    "test_accuracy": 0.9333333333333333,
+    "inference_time": 0.025886893272399902
+  },
+  "LSTM": {
+    "train_time": 109.98151183128357,
+    "test_accuracy": 0.9666666666666667,
+    "inference_time": 0.49277166525522864
+  },
+  "CNN-LSTM": {
+    "train_time": 34.63580107688904,
+    "test_accuracy": 1.0,
+    "inference_time": 0.33119261264801025
+  }
+}
