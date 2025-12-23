@@ -1,0 +1,14 @@
+{
+  "test_accuracy": 0.8,
+  "train_accuracy": 1.0,
+  "train_time": 0.05634307861328125,
+  "num_samples": 21,
+  "num_signs": 2,
+  "input_shape": [
+    30,
+    21,
+    3
+  ],
+  "model_type": "RandomForestClassifier",
+  "timestamp": "2025-12-23T15:18:55"
+}
